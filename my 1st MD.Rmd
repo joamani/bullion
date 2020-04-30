@@ -8,6 +8,10 @@ output: pdf_document
 ## HelloWorld.md
 ```
 
+```{r}
+#HelloWorld.md
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
